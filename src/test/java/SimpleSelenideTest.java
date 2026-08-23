@@ -32,6 +32,6 @@ public class SimpleSelenideTest {
     }
 
     public void assertResetPassword(){
-        sendOS.should(Condition.text("Сообщение успешно отправлено на указанный электронный адрес"));//1
+        sendOS.should(Condition.text("Сообщение успешно отправлено на указанный электронный адрес"));//test
     }
 }
