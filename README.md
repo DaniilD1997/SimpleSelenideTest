@@ -1,1 +1,1 @@
-Tests staff-go
+Tests for https://staff-go.ru
